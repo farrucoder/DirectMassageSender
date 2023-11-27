@@ -1,16 +1,10 @@
-# directmassagesenderonwhatsapp
+# DirectMassageSenderOnWhatsapp
 
-A new Flutter project.
+Hey,
+Using this Whatsapp API we can send massage without saving a number.
 
-## Getting Started
+## Out Put > UI
 
-This project is a starting point for a Flutter application.
+![WhatsappDirect Massage](https://github.com/farrucoder/DirectMassageSender/assets/114243390/67ca83e0-4321-404f-a3e6-02842b258813)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click Here To See > (https://staywithfarru.web.app)
